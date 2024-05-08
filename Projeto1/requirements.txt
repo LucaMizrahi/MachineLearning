@@ -1,0 +1,14 @@
+ipykernel
+ipython
+isort
+jupyter
+pylint
+pytest
+yapf
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
